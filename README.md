@@ -1,4 +1,3 @@
-﻿# Landing-Page
 Project: My Personal Website Portfolio
 
 Objective: Create a professional online presence showcasing my skills, experiences, and projects to potential employers, collaborators, and clients.
@@ -8,20 +7,9 @@ Description: My personal website portfolio is a custom-built platform highlighti
 Key Features:
 
 - A visually appealing and responsive design
-- A showcase of my projects, including [insert project types or examples]
 - A skills section highlighting my technical and soft skills
 - A contact form for inquiries and opportunities
 
 
 Credits:
 html5up
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
